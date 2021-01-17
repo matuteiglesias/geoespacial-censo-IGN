@@ -1,0 +1,533 @@
+DPTO_REF_ID;PROV_REF_ID;IDDPTO;DPTO;NOMDEPTO
+1;1;001;2001;D.E. I                                            
+2;1;002;2002;D.E. II                                           
+3;1;003;2003;D.E. III                                          
+4;1;004;2004;D.E. IV                                           
+5;1;005;2005;D.E. V                                            
+6;1;006;2006;D.E. VI                                           
+7;1;007;2007;D.E. VII                                          
+8;1;008;2008;D.E. VIII                                         
+9;1;009;2009;D.E. IX                                           
+10;1;010;2010;D.E. X                                            
+11;1;011;2011;D.E. XI                                           
+12;1;012;2012;D.E. XII                                          
+13;1;013;2013;D.E. XIII                                         
+14;1;014;2014;D.E. XIV                                          
+15;1;015;2015;D.E. XV                                           
+16;1;016;2016;D.E. XVI                                          
+17;1;017;2017;D.E. XVII                                         
+18;1;018;2018;D.E. XVIII                                        
+19;1;019;2019;D.E. XIX                                          
+20;1;020;2020;D.E. XX                                           
+21;1;021;2021;D.E. XXI                                          
+22;2;028;6028;Almirante Brown                                   
+23;2;035;6035;Avellaneda                                        
+24;2;091;6091;Berazategui                                       
+25;2;260;6260;Esteban Echeverría                                
+26;2;270;6270;Ezeiza                                            
+27;2;274;6274;Florencio Varela                                  
+28;2;371;6371;General San Martín                                
+29;2;408;6408;Hurlingham                                        
+30;2;410;6410;Ituzaingó                                         
+31;2;412;6412;José C. Paz                                       
+32;2;427;6427;La Matanza                                        
+33;2;434;6434;Lanús                                             
+34;2;490;6490;Lomas de Zamora                                   
+35;2;515;6515;Malvinas Argentinas                               
+36;2;539;6539;Merlo                                             
+37;2;560;6560;Moreno                                            
+38;2;568;6568;Morón                                             
+39;2;658;6658;Quilmes                                           
+40;2;749;6749;San Fernando                                      
+41;2;756;6756;San Isidro                                        
+42;2;760;6760;San Miguel                                        
+43;2;805;6805;Tigre                                             
+44;2;840;6840;Tres de Febrero                                   
+45;2;861;6861;Vicente López                                     
+46;2;007;6007;Adolfo Alsina                                     
+47;2;014;6014;Adolfo Gonzáles Chaves                            
+48;2;021;6021;Alberti                                           
+49;2;042;6042;Ayacucho                                          
+50;2;049;6049;Azul                                              
+51;2;056;6056;Bahía Blanca                                      
+52;2;063;6063;Balcarce                                          
+53;2;070;6070;Baradero                                          
+54;2;077;6077;Bartolomé Mitre                                   
+55;2;084;6084;Benito Juárez                                     
+56;2;098;6098;Berisso                                           
+57;2;105;6105;Bolívar                                           
+58;2;112;6112;Bragado                                           
+59;2;119;6119;Brandsen                                          
+60;2;126;6126;Campana                                           
+61;2;134;6134;Cañuelas                                          
+62;2;140;6140;Capitán Sarmiento                                 
+63;2;147;6147;Carlos Casares                                    
+64;2;154;6154;Carlos Tejedor                                    
+65;2;161;6161;Carmen de Areco                                   
+66;2;168;6168;Castelli                                          
+67;2;175;6175;Colón                                             
+68;2;182;6182;Coronel de Marina L. Rosales                      
+69;2;189;6189;Coronel Dorrego                                   
+70;2;196;6196;Coronel Pringles                                  
+71;2;203;6203;Coronel Suárez                                    
+72;2;210;6210;Chacabuco                                         
+73;2;217;6217;Chascomús                                         
+74;2;224;6224;Chivilcoy                                         
+75;2;231;6231;Daireaux                                          
+76;2;238;6238;Dolores                                           
+77;2;245;6245;Ensenada                                          
+78;2;252;6252;Escobar                                           
+79;2;266;6266;Exaltación de la Cruz                             
+80;2;277;6277;Florentino Ameghino                               
+81;2;280;6280;General Alvarado                                  
+82;2;287;6287;General Alvear                                    
+83;2;294;6294;General Arenales                                  
+84;2;301;6301;General Belgrano                                  
+85;2;308;6308;General Guido                                     
+86;2;315;6315;General Juan Madariaga                            
+87;2;322;6322;General La Madrid                                 
+88;2;329;6329;General Las Heras                                 
+89;2;336;6336;General Lavalle                                   
+90;2;343;6343;General Paz                                       
+91;2;351;6351;General Pinto                                     
+92;2;357;6357;General Pueyrredón                                
+93;2;364;6364;General Rodríguez                                 
+94;2;385;6385;General Viamonte                                  
+95;2;392;6392;General Villegas                                  
+96;2;399;6399;Guaminí                                           
+97;2;406;6406;Hipólito Yrigoyen                                 
+98;2;413;6413;Junín                                             
+99;2;420;6420;La Costa                                          
+100;2;441;6441;La Plata                                          
+101;2;448;6448;Laprida                                           
+102;2;455;6455;Las Flores                                        
+103;2;462;6462;Leandro N. Alem                                   
+104;2;469;6469;Lincoln                                           
+105;2;476;6476;Lobería                                           
+106;2;483;6483;Lobos                                             
+107;2;497;6497;Luján                                             
+108;2;505;6505;Magdalena                                         
+109;2;511;6511;Maipú                                             
+110;2;518;6518;Mar Chiquita                                      
+111;2;525;6525;Marcos Paz                                        
+112;2;532;6532;Mercedes                                          
+113;2;547;6547;Monte                                             
+114;2;553;6553;Monte Hermoso                                     
+115;2;574;6574;Navarro                                           
+116;2;581;6581;Necochea                                          
+117;2;588;6588;9 de Julio                                        
+118;2;595;6595;Olavarría                                         
+119;2;602;6602;Patagones                                         
+120;2;609;6609;Pehuajó                                           
+121;2;616;6616;Pellegrini                                        
+122;2;623;6623;Pergamino                                         
+123;2;630;6630;Pila                                              
+124;2;638;6638;Pilar                                             
+125;2;644;6644;Pinamar                                           
+126;2;648;6648;Presidente Perón                                  
+127;2;651;6651;Puán                                              
+128;2;655;6655;Punta Indio                                       
+129;2;665;6665;Ramallo                                           
+130;2;672;6672;Rauch                                             
+131;2;679;6679;Rivadavia                                         
+132;2;686;6686;Rojas                                             
+133;2;693;6693;Roque Pérez                                       
+134;2;700;6700;Saavedra                                          
+135;2;707;6707;Saladillo                                         
+136;2;714;6714;Salto                                             
+137;2;721;6721;Salliqueló                                        
+138;2;728;6728;San Andrés de Giles                               
+139;2;735;6735;San Antonio de Areco                              
+140;2;742;6742;San Cayetano                                      
+141;2;763;6763;San Nicolás                                       
+142;2;770;6770;San Pedro                                         
+143;2;778;6778;San Vicente                                       
+144;2;784;6784;Suipacha                                          
+145;2;791;6791;Tandil                                            
+146;2;798;6798;Tapalqué                                          
+147;2;812;6812;Tordillo                                          
+148;2;819;6819;Tornquist                                         
+149;2;826;6826;Trenque Lauquen                                   
+150;2;833;6833;Tres Arroyos                                      
+151;2;847;6847;Tres Lomas                                        
+152;2;854;6854;25 de Mayo                                        
+153;2;868;6868;Villa Gesell                                      
+154;2;875;6875;Villarino                                         
+155;2;882;6882;Zárate                                            
+156;3;007;10007;Ambato                                            
+157;3;014;10014;Ancasti                                           
+158;3;021;10021;Andalgalá                                         
+159;3;028;10028;Antofagasta de la Sierra                          
+160;3;035;10035;Belén                                             
+161;3;042;10042;Capayán                                           
+162;3;049;10049;Capital                                           
+163;3;056;10056;El Alto                                           
+164;3;063;10063;Fray Mamerto Esquiú                               
+165;3;070;10070;La Paz                                            
+166;3;077;10077;Paclin                                            
+167;3;084;10084;Poman                                             
+168;3;091;10091;Santa María                                       
+169;3;098;10098;Santa Rosa                                        
+170;3;105;10105;Tinogasta                                         
+171;3;112;10112;Valle Viejo                                       
+172;4;007;14007;Calamuchita                                       
+173;4;014;14014;Capital                                           
+174;4;021;14021;Colón                                             
+175;4;028;14028;Cruz del Eje                                      
+176;4;035;14035;General Roca                                      
+177;4;042;14042;General San Martín                                
+178;4;049;14049;Ischilín                                          
+179;4;056;14056;Juárez Celman                                     
+180;4;063;14063;Marcos Juárez                                     
+181;4;070;14070;Minas                                             
+182;4;077;14077;Pocho                                             
+183;4;084;14084;Presidente Roque Sáenz Peña                       
+184;4;091;14091;Punilla                                           
+185;4;098;14098;Río Cuarto                                        
+186;4;105;14105;Río Primero                                       
+187;4;112;14112;Río Seco                                          
+188;4;119;14119;Río Segundo                                       
+189;4;126;14126;San Alberto                                       
+190;4;133;14133;San Javier                                        
+191;4;140;14140;San Justo                                         
+192;4;147;14147;Santa María                                       
+193;4;154;14154;Sobremonte                                        
+194;4;161;14161;Tercero Arriba                                    
+195;4;168;14168;Totoral                                           
+196;4;175;14175;Tulumba                                           
+197;4;182;14182;Unión                                             
+198;5;007;18007;Bella Vista                                       
+199;5;014;18014;Berón de Astrada                                  
+200;5;021;18021;Capital                                           
+201;5;028;18028;Concepción                                        
+202;5;035;18035;Curuzú Cuatiá                                     
+203;5;042;18042;Empedrado                                         
+204;5;049;18049;Esquina                                           
+205;5;056;18056;General Alvear                                    
+206;5;063;18063;General Paz                                       
+207;5;070;18070;Goya                                              
+208;5;077;18077;Itatí                                             
+209;5;084;18084;Ituzaingó                                         
+210;5;091;18091;Lavalle                                           
+211;5;098;18098;Mburucuyá                                         
+212;5;105;18105;Mercedes                                          
+213;5;112;18112;Monte Caseros                                     
+214;5;119;18119;Paso de los Libres                                
+215;5;126;18126;Saladas                                           
+216;5;133;18133;San Cosme                                         
+217;5;140;18140;San Luis del Palmar                               
+218;5;147;18147;San Martín                                        
+219;5;154;18154;San Miguel                                        
+220;5;161;18161;San Roque                                         
+221;5;168;18168;Santo Tomé                                        
+222;5;175;18175;Sauce                                             
+223;6;007;22007;Almirante Brown                                   
+224;6;014;22014;Bermejo                                           
+225;6;021;22021;Comandante Fernández                              
+226;6;028;22028;Chacabuco                                         
+227;6;036;22036;12 de Octubre                                     
+228;6;039;22039;2 de Abril                                        
+229;6;043;22043;Fray Justo Santa María de Oro                     
+230;6;049;22049;General Belgrano                                  
+231;6;056;22056;General Donovan                                   
+232;6;063;22063;General Güemes                                    
+233;6;070;22070;Independencia                                     
+234;6;077;22077;Libertad                                          
+235;6;084;22084;Libertador General San Martín                     
+236;6;091;22091;Maipú                                             
+237;6;098;22098;Mayor Luis J. Fontana                             
+238;6;105;22105;9 de Julio                                        
+239;6;112;22112;O'Higgins                                         
+240;6;119;22119;Presidencia de la Plaza                           
+241;6;126;22126;1°  de Mayo                                       
+242;6;133;22133;Quitilipi                                         
+243;6;140;22140;San Fernando                                      
+244;6;147;22147;San Lorenzo                                       
+245;6;154;22154;Sargento Cabral                                   
+246;6;161;22161;Tapenagá                                          
+247;6;168;22168;25 de Mayo                                        
+248;7;007;26007;Biedma                                            
+249;7;014;26014;Cushamen                                          
+250;7;021;26021;Escalante                                         
+251;7;028;26028;Florentino Ameghino                               
+252;7;035;26035;Futaleufú                                         
+253;7;042;26042;Gaiman                                            
+254;7;049;26049;Gastre                                            
+255;7;056;26056;Languiñeo                                         
+256;7;063;26063;Martires                                          
+257;7;070;26070;Paso de los Indios                                
+258;7;077;26077;Rawson                                            
+259;7;084;26084;Río Senguer                                       
+260;7;091;26091;Sarmiento                                         
+261;7;098;26098;Tehuelches                                        
+262;7;105;26105;Telsen                                            
+263;8;008;30008;Colón                                             
+264;8;015;30015;Concordia                                         
+265;8;021;30021;Diamante                                          
+266;8;028;30028;Federación                                        
+267;8;035;30035;Federal                                           
+268;8;042;30042;Feliciano                                         
+269;8;049;30049;Gualeguay                                         
+270;8;056;30056;Gualeguaychú                                      
+271;8;063;30063;Islas del Ibicuy                                  
+272;8;070;30070;La Paz                                            
+273;8;077;30077;Nogoya                                            
+274;8;084;30084;Paraná                                            
+275;8;088;30088;San Salvador                                      
+276;8;091;30091;Tala                                              
+277;8;098;30098;Uruguay                                           
+278;8;105;30105;Victoria                                          
+279;8;113;30113;Villaguay                                         
+280;9;007;34007;Bermejo                                           
+281;9;014;34014;Formosa                                           
+282;9;021;34021;Laishi                                            
+283;9;028;34028;Matacos                                           
+284;9;035;34035;Patiño                                            
+285;9;042;34042;Pilagás                                           
+286;9;049;34049;Pilcomayo                                         
+287;9;056;34056;Pirane                                            
+288;9;063;34063;Ramón Lista                                       
+289;10;007;38007;Cochinoca                                         
+290;10;014;38014;El Carmen                                         
+291;10;021;38021;Dr. Manuel Belgrano                               
+292;10;028;38028;Humahuaca                                         
+293;10;035;38035;Ledesma                                           
+294;10;042;38042;Palpalá                                           
+295;10;049;38049;Rinconada                                         
+296;10;056;38056;San Antonio                                       
+297;10;063;38063;San Pedro                                         
+298;10;070;38070;Santa Bárbara                                     
+299;10;077;38077;Santa Catalina                                    
+300;10;084;38084;Susques                                           
+301;10;094;38094;Tilcara                                           
+302;10;098;38098;Tumbaya                                           
+303;10;105;38105;Valle Grande                                      
+304;10;112;38112;Yaví                                              
+305;11;007;42007;Atreuco                                           
+306;11;014;42014;Caleu Caleu                                       
+307;11;021;42021;Capital                                           
+308;11;028;42028;Catriló                                           
+309;11;035;42035;Conhelo                                           
+310;11;042;42042;Curacó                                            
+311;11;049;42049;Chalileo                                          
+312;11;056;42056;Chapaleufú                                        
+313;11;063;42063;Chical Có                                         
+314;11;070;42070;Guatraché                                         
+315;11;077;42077;Hucal                                             
+316;11;084;42084;Lihuel Calel                                      
+317;11;091;42091;Limay Mahuida                                     
+318;11;098;42098;Loventué                                          
+319;11;105;42105;Maracó                                            
+320;11;112;42112;Puelén                                            
+321;11;119;42119;Quemú Quemú                                       
+322;11;126;42126;Rancul                                            
+323;11;133;42133;Realicó                                           
+324;11;140;42140;Toay                                              
+325;11;147;42147;Trenel                                            
+326;11;154;42154;Utracán                                           
+327;12;007;46007;Arauco                                            
+328;12;014;46014;Capital                                           
+329;12;021;46021;Castro Barros                                     
+330;12;028;46028;Coronel Felipe Varela                             
+331;12;035;46035;Chamical                                          
+332;12;042;46042;Chilecito                                         
+333;12;049;46049;Famatina                                          
+334;12;056;46056;General Angel V. Peñaloza                         
+335;12;063;46063;General Belgrano                                  
+336;12;070;46070;General Juan F.Quiroga                            
+337;12;077;46077;General Lamadrid                                  
+338;12;084;46084;General Ocampo                                    
+339;12;091;46091;General San Martín                                
+340;12;098;46098;Vinchina                                          
+341;12;105;46105;Independencia                                     
+342;12;112;46112;Rosario Vera Peñaloza                             
+343;12;119;46119;San Blas de los Sauces                            
+344;12;126;46126;Sanagasta                                         
+345;13;007;50007;Capital                                           
+346;13;014;50014;General Alvear                                    
+347;13;021;50021;Godoy Cruz                                        
+348;13;028;50028;Guaymallén                                        
+349;13;035;50035;Junín                                             
+350;13;042;50042;La Paz                                            
+351;13;049;50049;Las Heras                                         
+352;13;056;50056;Lavalle                                           
+353;13;063;50063;Luján de Cuyo                                     
+354;13;070;50070;Maipú                                             
+355;13;077;50077;Malargüe                                          
+356;13;084;50084;Rivadavia                                         
+357;13;091;50091;San Carlos                                        
+358;13;098;50098;San Martín                                        
+359;13;105;50105;San Rafael                                        
+360;13;112;50112;Santa Rosa                                        
+361;13;119;50119;Tunuyán                                           
+362;13;126;50126;Tupungato                                         
+363;14;007;54007;Apóstoles                                         
+364;14;014;54014;Cainguás                                          
+365;14;021;54021;Candelaria                                        
+366;14;028;54028;Capital                                           
+367;14;035;54035;Concepción                                        
+368;14;042;54042;El Dorado                                         
+369;14;049;54049;General Manuel Belgrano                           
+370;14;056;54056;Guaraní                                           
+371;14;063;54063;Iguazú                                            
+372;14;070;54070;Leandro N. Alem                                   
+373;14;077;54077;Libertador General San Martín                     
+374;14;084;54084;Montecarlo                                        
+375;14;091;54091;Oberá                                             
+376;14;098;54098;San Ignacio                                       
+377;14;105;54105;San Javier                                        
+378;14;112;54112;San Pedro                                         
+379;14;119;54119;25 de Mayo                                        
+380;15;007;58007;Aluminé                                           
+381;15;014;58014;Añelo                                             
+382;15;021;58021;Catan Lil                                         
+383;15;028;58028;Collón Curá                                       
+384;15;035;58035;Confluencia                                       
+385;15;042;58042;Chos Malal                                        
+386;15;049;58049;Huiliches                                         
+387;15;056;58056;Lacar                                             
+388;15;063;58063;Loncopué                                          
+389;15;070;58070;Los Lagos                                         
+390;15;077;58077;Minas                                             
+391;15;084;58084;Ñorquín                                           
+392;15;091;58091;Pehuenches                                        
+393;15;098;58098;Picún Leufú                                       
+394;15;105;58105;Picunches                                         
+395;15;112;58112;Zapala                                            
+396;16;007;62007;Adolfo Alsina                                     
+397;16;014;62014;Avellaneda                                        
+398;16;021;62021;Bariloche                                         
+399;16;028;62028;Conesa                                            
+400;16;035;62035;El Cuy                                            
+401;16;042;62042;General Roca                                      
+402;16;049;62049;9 de Julio                                        
+403;16;056;62056;Ñorquinco                                         
+404;16;063;62063;Pichi Mahuída                                     
+405;16;070;62070;Pilnaniyeu                                        
+406;16;077;62077;San Antonio                                       
+407;16;084;62084;Valcheta                                          
+408;16;091;62091;25 de Mayo                                        
+409;17;007;66007;Anta                                              
+410;17;014;66014;Cachi                                             
+411;17;021;66021;Cafayate                                          
+412;17;028;66028;Capital                                           
+413;17;035;66035;Cerrillos                                         
+414;17;042;66042;Chicoana                                          
+415;17;049;66049;General Güemes                                    
+416;17;056;66056;General José de San Martín                        
+417;17;063;66063;Guachipas                                         
+418;17;070;66070;Iruya                                             
+419;17;077;66077;La Caldera                                        
+420;17;084;66084;La Candelaria                                     
+421;17;091;66091;La Poma                                           
+422;17;098;66098;La Viña                                           
+423;17;105;66105;Los Andes                                         
+424;17;112;66112;Metán                                             
+425;17;119;66119;Molinos                                           
+426;17;126;66126;Orán                                              
+427;17;133;66133;Rivadavia                                         
+428;17;140;66140;Rosario de la Frontera                            
+429;17;147;66147;Rosario de Lerma                                  
+430;17;154;66154;San Carlos                                        
+431;17;161;66161;Santa Victoria                                    
+432;18;007;70007;Albardón                                          
+433;18;014;70014;Angaco                                            
+434;18;021;70021;Calingasta                                        
+435;18;028;70028;Capital                                           
+436;18;035;70035;Caucete                                           
+437;18;042;70042;Chimbas                                           
+438;18;049;70049;Iglesia                                           
+439;18;056;70056;Jáchal                                            
+440;18;063;70063;9 de julio                                        
+441;18;070;70070;Pocito                                            
+442;18;077;70077;Rawson                                            
+443;18;084;70084;Rivadavia                                         
+444;18;091;70091;San Martín                                        
+445;18;098;70098;Santa Lucía                                       
+446;18;105;70105;Sarmiento                                         
+447;18;112;70112;Ullum                                             
+448;18;119;70119;Valle Fértil                                      
+449;18;126;70126;25 de Mayo                                        
+450;18;133;70133;Zonda                                             
+451;19;007;74007;Ayacucho                                          
+452;19;014;74014;Belgrano                                          
+453;19;021;74021;Coronel Pringles                                  
+454;19;028;74028;Chacabuco                                         
+455;19;035;74035;General Pedernera                                 
+456;19;042;74042;Gobernador Dupuy                                  
+457;19;049;74049;Junín                                             
+458;19;056;74056;La Capital                                        
+459;19;063;74063;Libertador General San Martín                     
+460;20;007;78007;Corpen Aike                                       
+461;20;014;78014;Deseado                                           
+462;20;021;78021;Güer Aike                                         
+463;20;028;78028;Lago Argentino                                    
+464;20;035;78035;Lago Buenos Aires                                 
+465;20;042;78042;Magallanes                                        
+466;20;049;78049;Río Chico                                         
+467;21;007;82007;Belgrano                                          
+468;21;014;82014;Caseros                                           
+469;21;021;82021;Castellanos                                       
+470;21;028;82028;Constitución                                      
+471;21;035;82035;Garay                                             
+472;21;042;82042;General López                                     
+473;21;049;82049;General Obligado                                  
+474;21;056;82056;Iriondo                                           
+475;21;063;82063;La Capital                                        
+476;21;070;82070;Las Colonias                                      
+477;21;077;82077;9 de Julio                                        
+478;21;084;82084;Rosario                                           
+479;21;091;82091;San Cristobal                                     
+480;21;098;82098;San Javier                                        
+481;21;105;82105;San Jerónimo                                      
+482;21;112;82112;San Justo                                         
+483;21;119;82119;San Lorenzo                                       
+484;21;126;82126;San Martín                                        
+485;21;133;82133;Vera                                              
+486;22;007;86007;Aguirre                                           
+487;22;014;86014;Alberdi                                           
+488;22;021;86021;Atamisqui                                         
+489;22;028;86028;Avellaneda                                        
+490;22;035;86035;Banda                                             
+491;22;042;86042;Belgrano                                          
+492;22;049;86049;Capital                                           
+493;22;056;86056;Copo                                              
+494;22;063;86063;Choya                                             
+495;22;070;86070;Figueroa                                          
+496;22;077;86077;General Taboada                                   
+497;22;084;86084;Guasayán                                          
+498;22;091;86091;Jiménez                                           
+499;22;098;86098;Juan F. Ibarra                                    
+500;22;105;86105;Loreto                                            
+501;22;112;86112;Mitre                                             
+502;22;119;86119;Moreno                                            
+503;22;126;86126;Ojo de agua                                       
+504;22;133;86133;Pelegrini                                         
+505;22;140;86140;Quebrachos                                        
+506;22;147;86147;Río Hondo                                         
+507;22;154;86154;Rivadavia                                         
+508;22;161;86161;Robles                                            
+509;22;168;86168;Salavina                                          
+510;22;175;86175;San Martín                                        
+511;22;182;86182;Sarmiento                                         
+512;22;189;86189;Silípica                                          
+513;23;007;90007;Burruyacú                                         
+514;23;014;90014;Cruz Alta                                         
+515;23;021;90021;Chicligasta                                       
+516;23;028;90028;Famallá                                           
+517;23;035;90035;Graneros                                          
+518;23;042;90042;Juan B. Alberdi                                   
+519;23;049;90049;La Cocha                                          
+520;23;056;90056;Leales                                            
+521;23;063;90063;Lules                                             
+522;23;070;90070;Monteros                                          
+523;23;077;90077;Río Chico                                         
+524;23;084;90084;Capital                                           
+525;23;091;90091;Simoca                                            
+526;23;098;90098;Tafí del Valle                                    
+527;23;105;90105;Tafí Viejo                                        
+528;23;112;90112;Trancas                                           
+529;23;119;90119;Yerba Buena                                       
+530;24;007;94007;Río Grande                                        
+531;24;014;94014;Ushuaia                                           
+532;24;028;94028;Antártida Argentina                               
