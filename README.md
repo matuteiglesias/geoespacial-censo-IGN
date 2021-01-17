@@ -30,6 +30,7 @@ Consultar la documentacion en https://pypi.org/project/Fiona/.
 Para que funcione fiona debemos configurar las variables de environment referidas a GDAL en las opciones de windows. Boton derecho en Mi PC 'Advanced system settings'> 'Environment Variables...' y ahi agregar las variables:
 
 GDAL_DATA = C:\user\anaconda3\Lib\site-packages\osgeo\data\gdal
+
 PROJ_LIB = C:\Users\BCNCPC23\anaconda3\Lib\site-packages\osgeo\data\proj
 
 Descargar el archivo tar.gz para geopandas y correr:
