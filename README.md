@@ -1,4 +1,4 @@
-# IGN_INDEC_georef
+# Datos espaciales: Radios Censales, Fracciones, en Departamentos IGN
 
 Este repositorio contiene scripts de procesamiento de datos para la manipulación y reconciliación de información geográfica de los últimos censos de Argentina (1991, 2001, 2010, INDEC) con las referencias del Instituto Geográfico Nacional (IGN) de Argentina.
 
