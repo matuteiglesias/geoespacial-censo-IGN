@@ -1,0 +1,103 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/matias/repos/geoespacial-censo-IGN/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+Contacto	README.md	/^## Contacto$/;"	s	chapter:Datos espaciales: Radios Censales, Fracciones, en Departamentos IGN
+Contribuciones	README.md	/^## Contribuciones$/;"	s	chapter:Datos espaciales: Radios Censales, Fracciones, en Departamentos IGN
+Datos espaciales: Radios Censales, Fracciones, en Departamentos IGN	README.md	/^# Datos espaciales: Radios Censales, Fracciones, en Departamentos IGN$/;"	c
+Descripción	README.md	/^## Descripción$/;"	s	chapter:Datos espaciales: Radios Censales, Fracciones, en Departamentos IGN
+Instalación de Geopandas en Windows	README.md	/^#### Instalación de Geopandas en Windows$/;"	t	section:Datos espaciales: Radios Censales, Fracciones, en Departamentos IGN""Contacto
+ns946313900101	censos_shp_CONICET/1991_RADIOS ARGENTINA/1991_RADIOS ARGENTINA.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20180731<\/CreaDate><CreaTime>11030800<\/CreaTime><ArcGI/;"	n
+ns9f33f06e0101	censos_shp_CONICET/2001_RADIOS ARGENTINA/2001_RADIOS ARGENTINA.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20180716<\/CreaDate><CreaTime>15484500<\/CreaTime><ArcGI/;"	n
+nsb51790ae0101	censos_shp_CONICET/2010_RADIOS ARGENTINA/2010_RADIOS ARGENTINA.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20180716<\/CreaDate><CreaTime>15242700<\/CreaTime><ArcGI/;"	n
+nsf07c77330101	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330201	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330301	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330401	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330501	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330601	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330701	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330801	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330901	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330a01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330b01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330c01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330d01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330e01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77330f01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331001	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331101	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331201	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331301	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331401	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331501	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331601	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331701	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331801	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331901	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331a01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331b01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331c01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331d01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331e01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77331f01	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77332001	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77332101	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77332201	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77332301	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77332401	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77332501	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77332601	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77332701	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsf07c77332801	IGN_shp/ign_provincia/ign_provincia.shp.xml	/^AH\/\/2Q==<\/Data><\/Thumbnail><\/Binary><mdDateSt Sync="TRUE">20190705<\/mdDateSt><dataIdInfo></;"	n
+nsfe44c4650101	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650201	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650301	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650401	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650501	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650601	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650701	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650801	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650901	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650a01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650b01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650c01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650d01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650e01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4650f01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651001	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651101	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651201	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651301	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651401	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651501	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651601	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651701	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651801	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651901	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651a01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<metadata xml:lang="es"><Esri><CreaDate>20191126<\/CreaDate><CreaTime>12572000<\/CreaTime><ArcGI/;"	n
+nsfe44c4651b01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<\/attrdef><attrdefs>Instituto Nacional de Estadística y Censos<\/attrdefs><\/attr><attr xmlns=/;"	n
+nsfe44c4651c01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<\/attrdef><attrdefs>Instituto Nacional de Estadística y Censos<\/attrdefs><\/attr><attr xmlns=/;"	n
+nsfe44c4651d01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<\/attrdef><attrdefs>Instituto Nacional de Estadística y Censos<\/attrdefs><\/attr><attr xmlns=/;"	n
+nsfe44c4651e01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<\/attrdef><attrdefs>Instituto Nacional de Estadística y Censos<\/attrdefs><\/attr><attr xmlns=/;"	n
+nsfe44c4651f01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<\/attrdef><attrdefs>Instituto Nacional de Estadística y Censos<\/attrdefs><\/attr><attr xmlns=/;"	n
+nsfe44c4652001	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<\/attrdef><attrdefs>Instituto Nacional de Estadística y Censos<\/attrdefs><\/attr><attr xmlns=/;"	n
+nsfe44c4652101	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<\/attrdef><attrdefs>Instituto Nacional de Estadística y Censos<\/attrdefs><\/attr><attr xmlns=/;"	n
+nsfe44c4652201	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<\/attrdef><attrdefs>Instituto Nacional de Estadística y Censos<\/attrdefs><\/attr><attr xmlns=/;"	n
+nsfe44c4652301	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<\/attrdef><attrdefs>Instituto Nacional de Estadística y Censos<\/attrdefs><\/attr><attr xmlns=/;"	n
+nsfe44c4652401	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<\/attrdef><attrdefs>Instituto Nacional de Estadística y Censos<\/attrdefs><\/attr><attr xmlns=/;"	n
+nsfe44c4652501	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^<\/attrdef><attrdefs>Instituto Nacional de Estadística y Censos<\/attrdefs><\/attr><attr xmlns=/;"	n
+nsfe44c4652601	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD\/\/Z<\/Data><\/Thumbnail><\/Binary><mdFile/;"	n
+nsfe44c4652701	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD\/\/Z<\/Data><\/Thumbnail><\/Binary><mdFile/;"	n
+nsfe44c4652801	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD\/\/Z<\/Data><\/Thumbnail><\/Binary><mdFile/;"	n
+nsfe44c4652901	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD\/\/Z<\/Data><\/Thumbnail><\/Binary><mdFile/;"	n
+nsfe44c4652a01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD\/\/Z<\/Data><\/Thumbnail><\/Binary><mdFile/;"	n
+nsfe44c4652b01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD\/\/Z<\/Data><\/Thumbnail><\/Binary><mdFile/;"	n
+nsfe44c4652c01	IGN_shp/ign_departamento/ign_departamento.shp.xml	/^iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD\/\/Z<\/Data><\/Thumbnail><\/Binary><mdFile/;"	n
